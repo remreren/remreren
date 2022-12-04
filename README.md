@@ -19,6 +19,9 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Testcontainers ile Test Etmek](https://medium.com/emlakjet/testcontainers-ile-test-etmek-4c5f02983ad1?source=rss-2afbd6d45544------2)
+- [Monolitik Mimari Mikroservis Mimariye Karşı | Mimari Desenler — 0](https://eeren.medium.com/monolitik-mimari-mikroservis-mimariye-kar%C5%9F%C4%B1-mimari-desenler-0-c23783d5f8ae?source=rss-2afbd6d45544------2)
+- [Context Nedir? — Onlar her yerde.](https://eeren.medium.com/context-nedir-onlar-her-yerde-849671668566?source=rss-2afbd6d45544------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
