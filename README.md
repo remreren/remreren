@@ -11,11 +11,6 @@
 
 - 📄 Know about my experiences [https://eeren.dev/assets/docs/CV-Emre-Eren.pdf](https://eeren.dev/assets/docs/CV-Emre-Eren.pdf)
 
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=remreren&show_icons=true&locale=en" alt="remreren" /></p>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=remreren&show_icons=true&locale=en&layout=compact" alt="remreren" /></p>
-
-
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
