@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Emre</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
-- 🔭 I’m currently working on [migration-sample](https://github.com/remreren/migration-sample)
 
-- 📝 I regularly write articles on [https://medium.com/@eeren](https://medium.com/@eeren)
+- 📝 I write articles on [https://medium.com/@eeren](https://medium.com/@eeren)
 
-- 💬 Ask me about **Java, Spring Boot, Microservices**
+- 💬 Ask me about **Java, Spring Boot, Microservices, Golang**
 
 - 📫 How to reach me **eeren881@gmail.com**
 
